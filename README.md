@@ -1,15 +1,25 @@
 🌷 Bem-vindo(a) ao meu perfil! 🌷
 
+<h2><b>Marina Oliveira</b></br></h2>
+💜 Engenheira Civil - UFV</br>
+💜 Mestre em Estruturas - UFU</br>
+💜 Professora de graduação</br>
+💜 Servidora pública municipal</br>
+💜 Profissional autônoma</br>
+💜 Iniciante a programadora por hobby</br></br>
+
+
  <div>
    <a href="https://github.com/MarinaFAO">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarinaFAO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaFAO&layout=compact&langs_count=6&theme=radical"/>
+   <img width="400em"  src="https://github-readme-stats.vercel.app/api?username=MarinaFAO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <br>
+   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaFAO&layout=compact&langs_count=6&theme=radical"/>
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
  <br>
